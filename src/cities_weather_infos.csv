@@ -1,0 +1,36 @@
+city,latitude,longitude,adress,weather_code,felt_temperature,cloud_coverage,precipitation,wind
+Mont Saint Michel,48.6359541,-1.511459954959514,"Mont Saint-Michel, Le Mont-Saint-Michel, Avranches, Manche, Normandie, France métropolitaine, 50170, France",802,18.3,47,0.0,3.46727
+St Malo,48.649518,-2.0260409,"Saint-Malo, Ille-et-Vilaine, Bretagne, France métropolitaine, 35400, France",800,17.0,0,0.0,4.6
+Bayeux,49.2764624,-0.7024738,"Bayeux, Calvados, Normandie, France métropolitaine, 14400, France",802,17.0,61,0.0,2.29838
+Le Havre,49.4938975,0.1079732,"Le Havre, Seine-Maritime, Normandie, France métropolitaine, France",804,18.0,100,0.0,4.6
+Rouen,49.4404591,1.0939658,"Rouen, Seine-Maritime, Normandie, France métropolitaine, France",804,19.3,92,0.0,2.18635
+Paris,48.8588897,2.3200410217200766,"Paris, Île-de-France, France métropolitaine, France",804,22.0,91,0.0,3.28122
+Amiens,49.8941708,2.2956951,"Amiens, Somme, Hauts-de-France, France métropolitaine, 80090, France",802,19.3,48,0.0,2.51733
+Lille,50.6365654,3.0635282,"Lille, Nord, Hauts-de-France, France métropolitaine, France",803,20.4,80,0.0,2.67006
+Strasbourg,48.584614,7.7507127,"Strasbourg, Bas-Rhin, Grand Est, France métropolitaine, France",800,22.0,0,0.0,2.1
+Chateau du Haut Koenigsbourg,48.2495226,7.3454923,"Château du Haut-Kœnigsbourg, Orschwiller, Sélestat-Erstein, Bas-Rhin, Grand Est, France métropolitaine, 67600, France",801,19.9,39,0.0,2.04588
+Colmar,48.0777517,7.3579641,"Colmar, Colmar-Ribeauvillé, Haut-Rhin, Grand Est, France métropolitaine, 68000, France",800,21.1,0,0.0,1.1
+Eguisheim,48.0447968,7.3079618,"Eguisheim, Colmar-Ribeauvillé, Haut-Rhin, Grand Est, France métropolitaine, 68420, France",800,20.6,0,0.0,2.21187
+Besancon,47.2380222,6.0243622,"Besançon, Doubs, Bourgogne-Franche-Comté, France métropolitaine, 25000, France",801,17.8,15,0.0,1.52493
+Dijon,47.3215806,5.0414701,"Dijon, Côte-d'Or, Bourgogne-Franche-Comté, France métropolitaine, 21000, France",800,25.7,0,0.0,4.1
+Annecy,45.8992348,6.1288847,"Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, France",803,21.4,90,0.0,1.47689
+Grenoble,45.1875602,5.7357819,"Grenoble, Isère, Auvergne-Rhône-Alpes, France métropolitaine, France",804,23.7,100,0.0,1.29353
+Lyon,45.7578137,4.8320114,"Lyon, Métropole de Lyon, Circonscription départementale du Rhône, Auvergne-Rhône-Alpes, France métropolitaine, France",804,24.1,95,0.0,4.1
+Gorges du Verdon,43.7496562,6.3285616,"Gorges du Verdon, Route des Crêtes, Les Ferrailles, La Palud-sur-Verdon, Castellane, Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur, France métropolitaine, 04120, France",804,18.3,97,0.0,1.67656
+Bormes les Mimosas,43.1506968,6.3419285,"Bormes-les-Mimosas, Toulon, Var, Provence-Alpes-Côte d'Azur, France métropolitaine, 83230, France",801,24.4,29,0.0,1.96941
+Cassis,43.2140359,5.5396318,"Cassis, Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13260, France",802,25.0,63,0.0,1.7266
+Marseille,43.2961743,5.3699525,"Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13000, France",803,23.8,75,0.0,0.43378
+Aix en Provence,43.5298424,5.4474738,"Aix-en-Provence, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, France",803,23.1,86,0.0,0.573092
+Avignon,43.9492493,4.8059012,"Avignon, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, France",803,30.6,88,0.0,0.310749
+Uzes,44.0121279,4.4196718,"Uzès, Nîmes, Gard, Occitanie, France métropolitaine, 30700, France",803,23.7,80,0.0,0.934117
+Nimes,43.8374249,4.3600687,"Nîmes, Gard, Occitanie, France métropolitaine, France",800,25.4,0,0.0,1.5
+Aigues Mortes,43.5658225,4.1912837,"Aigues-Mortes, Nîmes, Gard, Occitanie, France métropolitaine, 30220, France",804,25.9,91,0.0,1.81032
+Saintes Maries de la mer,43.4522771,4.4287172,"Saintes-Maries-de-la-Mer, Arles, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13460, France",802,25.6,60,0.0,0.68449
+Collioure,42.52505,3.0831554,"Collioure, Céret, Pyrénées-Orientales, Occitanie, France métropolitaine, 66190, France",803,24.9,86,0.0,6.28625
+Carcassonne,43.2130358,2.3491069,"Carcassonne, Aude, Occitanie, France métropolitaine, 11000, France",804,25.3,95,0.0,5.1
+Ariege,42.9455368,1.4065544156065486,"Ariège, Occitanie, France métropolitaine, France",301,18.3,89,0.486246,1.75768
+Toulouse,43.6044622,1.4442469,"Toulouse, Haute-Garonne, Occitanie, France métropolitaine, France",800,25.2,0,0.0,3.6
+Montauban,44.0175835,1.3549991,"Montauban, Tarn-et-Garonne, Occitanie, France métropolitaine, 82000, France",802,22.1,60,0.0,3.48718
+Biarritz,43.4832523,-1.5592776,"Biarritz, Bayonne, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64200, France",804,22.6,100,0.0,4.1
+Bayonne,43.4945144,-1.4736657,"Bayonne, Pyrénées-Atlantiques, Nouvelle-Aquitaine, France métropolitaine, 64100, France",804,22.6,100,0.0,4.1
+La Rochelle,46.1591126,-1.1520434,"La Rochelle, Charente-Maritime, Nouvelle-Aquitaine, France métropolitaine, 17000, France",800,22.2,0,0.0,5.1

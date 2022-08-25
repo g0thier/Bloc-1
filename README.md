@@ -1,3 +1,9 @@
+## Informations about files:
+
+1. cities_weather_info.ipynb create from a list of cities a dataframe with weather of this cities.
+2. weather_code.py return a dataframe who associate code with a definition of this code. 
+
+
 ## Notes personnelles. 
 
 ### Interieur Dossier :
