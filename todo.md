@@ -1,10 +1,8 @@
-&offset=25
-
-*   hotel name,
-*   Url to its booking.com page,
-*   Its coordinates: latitude and longitude
-*   Score given by the website users
-*   Text description of the hotel
+*   √ hotel name,
+*   √ Url to its booking.com page,
+*   50% Its coordinates: latitude and longitude
+*   √ Score given by the website users
+*   √ Text description of the hotel
 
 ## Goals 🎯
 

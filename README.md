@@ -3,7 +3,9 @@
 1. cities_weather_info.ipynb create from a list of cities a dataframe with weather of this cities.
 2. weather_code.py return a dataframe who associate code with a definition of this code.
 3. booking_infos.ipynb return the first page of city result for current date.
-4. 
+4. booking_infos_pages.py return the numbers of results availables on firsts pages.
+5. booking_hostels.py make a list of all hostels availables for previous list of firts pages.
+6. hostels_list.py make a list of all hostels forms from hotels cities list. 
 
 
 ## Notes personnelles. 
