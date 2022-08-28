@@ -5,7 +5,8 @@
 3. booking_infos.ipynb return the first page of city result for current date.
 4. booking_infos_pages.py return the numbers of results availables on firsts pages.
 5. booking_hostels.py make a list of all hostels availables for previous list of firts pages.
-6. hostels_list.py make a list of all hostels forms from hotels cities list. 
+6. hostels_list.py make a list of all hostels forms from hotels cities list.
+7. hostels_list_located.ipynb add locations to this last dataset.
 
 
 ## Notes personnelles. 
