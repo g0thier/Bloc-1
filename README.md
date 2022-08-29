@@ -8,6 +8,8 @@
 6. hostels_list.py make a list of all hostels forms from hotels cities list.
 7. hostels_list_located.ipynb add locations to this last dataset.
 
+8. make_s3_dataset.ipynb reunion of all datas
+
 
 ## Notes personnelles. 
 
