@@ -8,8 +8,9 @@
 6. hostels_list.py make a list of all hostels forms from hotels cities list.
 7. hostels_list_located.ipynb add locations to this last dataset.
 
-8. make_s3_dataset.ipynb reunion of all datas in s3_booking_weather_dataset.csv
+8. make_s3_dataset.ipynb reunion of all datas in s3_booking_weather_dataset.csv.
 9. push_s3.ipynb send the dataframe on s3 bucket. 
+10. pull_s3.ipynb import the dataframe drom the s3 bucket and show 20 best hostels in 5 best cities.
 
 
 ## Notes personnelles. 
