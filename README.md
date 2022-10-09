@@ -1,8 +1,12 @@
 # Bloc n°1 : Construction et alimentation d'une infrastructure de gestion de données. 
 
 ## Video explain
+<div>
+<iframe width="798" height="449" src="https://www.youtube.com/embed/3zXOKyZjQvw" title="Bloc n°1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3zXOKyZjQvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Lien Youtube](https://www.youtube.com/watch?v=3zXOKyZjQvw&feature=youtu.be)](https://youtu.be/3zXOKyZjQvw "Bloc n°1")
 
 ## Goals
 
